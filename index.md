@@ -18,4 +18,4 @@ If the app’s functionality changes in the future in a way that involves data c
 
 ## Contact
 
-your@email.com
+kadaliao@gmail.com
