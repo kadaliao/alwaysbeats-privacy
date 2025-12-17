@@ -8,4 +8,4 @@ AlwaysBeats 不会收集、存储或分享任何用户的个人信息。
 
 ## 联系方式
 
-your@email.com
+kadaliao@gmail.com
